@@ -1,4 +1,5 @@
 ---
+title: Email Polling
 status: planned
 related:
   - case-creation.md
