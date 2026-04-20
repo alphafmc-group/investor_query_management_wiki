@@ -18,7 +18,7 @@ Central index of all pages. Updated on every session. Read this first when navig
 
 | Page | Status | Description |
 |---|---|---|
-| [[email-polling]] | planned | MS Graph mailbox polling and email ingest pipeline |
+| [email-polling](email-polling.md) | planned | MS Graph mailbox polling and email ingest pipeline |
 | [[case-creation]] | planned | Auto-create or attach cases from inbound emails, threading logic |
 | [[case-management]] | planned | Case workspace: view, assign, status changes, notes, resolve |
 | [[task-management]] | planned | Create and track tasks against a case, team queues |
