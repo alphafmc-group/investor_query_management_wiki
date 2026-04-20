@@ -8,6 +8,7 @@ Central index of all pages. Updated on every session. Read this first when navig
 
 | Page | Description |
 |---|---|
+| [system-design](system-design.md) | Component diagram, tech stack, integrations, security model |
 | [[system-design]] | Component diagram, tech stack, integrations, security model |
 | [[data-model]] | Full ERD — all entities, fields, and relationships |
 
